@@ -1366,5 +1366,12 @@
     "link": "https://arstechnica.com/gadgets/2019/06/google-is-killing-youtubes-hangouts-on-air-this-year/",
     "name": "Hangouts on Air",
     "type": "service"
-  }
+  },
+  {
+    "dateClose": "2013-12-31",
+    "dateOpen": "2009-11-16",
+    "description": "cross platform file, image etc. transfer",
+    "link": "https://blog.bu.mp/post/71781606704/all-good-things" "http://techland.time.com/2014/01/01/sadly-but-inevitably-google-dumps-bump/",
+    "name": "bu.mp",
+    "type": "service"
 ]
